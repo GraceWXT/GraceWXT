@@ -30,6 +30,8 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 <img alt="cypress" height="48px" src="./doc/cypress.svg"/>
 <img alt="rspec" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
 <img alt="git" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img alt="mocha" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+<img alt="chai" height="48px" src="./doc/chai.png" />
 </p>
 
 
