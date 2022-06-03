@@ -17,7 +17,7 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 <!-- ### 📈 Language / Framework stats (Powered by CodersRank) -->
 ## 📊 This week I spent my time on
  <!-- WakaTime Stats @gautamkrishnar -->
-[![Grace's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GraceWXT&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Grace's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GraceWXT&hide_title=true&hide_border=true)
 ## 📈 GitHub Stats
 <!-- Github activity @guilyx / Stats @mokkapps -->
 ![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceWXT&theme=default&show_icons=true&hide_title=true&hide_border=true&hide=issues,contribs)
