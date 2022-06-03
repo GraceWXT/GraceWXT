@@ -13,6 +13,7 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 - ⚡ Fun fact: I have full working proficiency in Japanese.
 
 ## 🛠 Languages and Tools
+<p>
 <img alt="javascript" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="nodejs" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img alt="react" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -29,7 +30,7 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 <img alt="jest" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img alt="rspec" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
 <img alt="git" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-
+</p>
 
 
 <!-- icons @Spiderpig86 @gautamkrishnar @shubham2295 -->
