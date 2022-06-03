@@ -8,7 +8,7 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 
 - 🧚🏻‍♀️ One of the rarest personalities: [INTJ-A](https://www.16personalities.com/intj-personality)
 - 📃 Check out my resume [here](https://resume.creddle.io/resume/4a6hla5b984).
-- 🔗 How to reach me: [connect with me on <img alt= LinkedIn height="0.8em" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/gracewangwxt/), or [send me an 📧](mailto:wangxiaotian2012@gmail.com)
+- 🔗 How to reach me: [connect with me on <img alt= LinkedIn height="16px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/gracewangwxt/), or [send me an 📧](mailto:wangxiaotian2012@gmail.com)
 - 💬 Ask me about Japanese anime and voice actors.
 - ⚡ Fun fact: I have full working proficiency in Japanese.
 
