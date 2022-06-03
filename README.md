@@ -25,6 +25,7 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 <img alt="ruby" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
 <img alt="rails" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
 <img alt="bootstrap" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img alt="eslint" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
 <img alt="mocha" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 <img alt="chai" height="48px" src="./doc/chai.png" />
 <img alt="jest" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
