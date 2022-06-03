@@ -1,4 +1,4 @@
-# Hey 👋, I'm Grace
+# Hi, I'm Grace!
 Welcome to my profile!
 I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 
@@ -8,11 +8,14 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 
 - 🧚🏻‍♀️ One of the rarest personalities: [INTJ-A](https://www.16personalities.com/intj-personality)
 - 📃 Check out my resume [here](https://resume.creddle.io/resume/4a6hla5b984).
-- 🔗 How to reach me: [connect with me on <img alt= LinkedIn height="16px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/gracewangwxt/), or [send me an 📧](mailto:wangxiaotian2012@gmail.com)
+- 🔗 How to reach me: [connect with me on <img alt="LinkedIn" height="16px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/gracewangwxt/), [send me an 📧](mailto:wangxiaotian2012@gmail.com), or [book a time to chat with me <img alt="video call" height="20px" src="./doc/video-call-icon.svg"/>](https://calendly.com/gracewxt/20min)!
 - 💬 Ask me about Japanese anime and voice actors.
 - ⚡ Fun fact: I have full working proficiency in Japanese.
 
 ## 🛠 Languages and Tools
+<img alt="JavaScript" height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
 <!-- icons @Spiderpig86 @gautamkrishnar @shubham2295 -->
 <!-- ### 📈 Language / Framework stats (Powered by CodersRank) -->
 ## 📊 This week I spent my time on
