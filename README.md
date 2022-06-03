@@ -1,4 +1,4 @@
-# Hi there, I'm Grace!
+# Hi there, I'm Grace! <img width="60px" src="./doc/paw-waving-cropped.webp" />
 Welcome to my profile!
 I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 
