@@ -32,6 +32,7 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 <img alt="storybook" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" />
 <img alt="cypress" height="48px" src="./doc/cypress.svg"/>
 <img alt="rspec" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
+<img alt="postman" height="48px" src="./doc/postman.svg" />
 <img alt="git" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </p>
 
