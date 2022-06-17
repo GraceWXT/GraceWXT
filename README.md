@@ -2,12 +2,12 @@
 Welcome to my profile!
 I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 
-- 👩🏻‍💻 Currently working on a project of inventory and order management system.
+- 👩🏻‍💻 Currently working on a personal project of inventory and order management system.
 - 🧐 Learning advanced Javascript and React concepts, Typescript, React Native, Data Structure and Algorithm...and the to-learn list gets longer every day!
 
 - 🧚🏻‍♀️ With one of the rarest personalities: [INTJ-A](https://www.16personalities.com/intj-personality)
 - 📃 Check out my resume [here](https://resume.creddle.io/resume/4a6hla5b984).
-- 🔗 How to reach me: [connect with me on <img alt="LinkedIn" height="24px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/gracewangwxt/), [send me an <img alt="email" height="24px" src="./doc/email.png" />](mailto:wangxiaotian2012@gmail.com), or [book a time to chat with me <img alt="video call" height="24px" src="./doc/video-call-icon.svg">](https://calendly.com/gracewxt/20min)!
+- 🔗 How to reach me: [connect with me on <img alt="LinkedIn" height="24px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/gracewangwxt/), [send me an <img alt="email" height="24px" src="./doc/email.png" />](mailto:wangxiaotian2012@gmail.com), or [book a time to chat with me <img alt="video call" height="24px" src="./doc/video-call-icon.svg">](https://calendly.com/gracewxt/30-mins-meeting)!
 - 💬 Ask me about Japanese anime 👾 and voice actors 🗣.
 - ⚡ Fun fact: I have been to 3 different locations of Disneyland 🎡 and planning to get to all 6 ✨.
 
