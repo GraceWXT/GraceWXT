@@ -3,7 +3,7 @@ Welcome to my profile!
 I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 
 - 👩🏻‍💻 Currently working on a personal project of inventory and order management system.
-- 🧐 Learning advanced Javascript and React concepts, Typescript, React Native, Data Structure and Algorithm...and the to-learn list gets longer every day!
+- 🧐 Learning advanced Javascript and React concepts, Typescript, Microservices, Data Structure and Algorithm...and the to-learn list gets longer every day!
 
 - 🧚🏻‍♀️ With one of the rarest personalities: [INTJ-A](https://www.16personalities.com/intj-personality)
 - 📃 Check out my resume [here](https://resume.creddle.io/resume/4a6hla5b984).
@@ -34,6 +34,10 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 <img alt="rspec" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
 <img alt="postman" height="48px" src="./doc/postman.svg" />
 <img alt="git" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img alt="circleci" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />
+<img alt="heroku" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+<img alt="netlify" height="48px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
+
 </p>
 
 
