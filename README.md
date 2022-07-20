@@ -42,6 +42,6 @@ I'm a full-stack developer based in Vancouver, BC, 🇨🇦 Canada.
 
 
 ## 📊 This week I spent my time on
-![Grace's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GraceWXT&hide_title=true&hide_border=true)
+![Grace's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=GraceWXT&hide_title=true&hide_border=true&langs_count=5)
 ## 📈 GitHub Stats
-![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceWXT&theme=default&show_icons=true&hide_title=true&hide_border=true&hide=issues,contribs)
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceWXT&theme=default&show_icons=true&hide_title=true&hide_border=true)
